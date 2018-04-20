@@ -68,21 +68,7 @@ python object_detection/builders/model_builder_test.py
 
 The Tensorflow Object Detection API uses protobuf files to configure the
 training and evaluation process. The schema for the training pipeline can be
-found in object_detection/protos/pipeline.proto. At a high level, the config
-file is split into 5 parts:
-
-1. The `model` configuration. This defines what type of model will be trained
-(ie. meta-architecture, feature extractor).
-2. The `train_config`, which decides what parameters should be used to train
-model parameters (ie. SGD parameters, input preprocessing and feature extractor
-initialization values).
-3. The `eval_config`, which determines what set of metrics will be reported for
-evaluation (currently we only support the PASCAL VOC metrics).
-4. The `train_input_config`, which defines what dataset the model should be
-trained on.
-5. The `eval_input_config`, which defines what dataset the model will be
-evaluated on. Typically this should be different than the training input
-dataset.
+found in object_detection/protos/pipeline.proto.
 
 A skeleton configuration file is shown below:
 
