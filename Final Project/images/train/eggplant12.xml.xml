@@ -1,0 +1,38 @@
+<annotation>
+	<folder>eggplant</folder>
+	<filename>eggplant12.jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\eggplant\eggplant12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eggplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>803</xmin>
+			<ymin>25</ymin>
+			<xmax>1718</xmax>
+			<ymax>775</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eggplant</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1001</xmin>
+			<ymin>491</ymin>
+			<xmax>1893</xmax>
+			<ymax>1365</ymax>
+		</bndbox>
+	</object>
+</annotation>

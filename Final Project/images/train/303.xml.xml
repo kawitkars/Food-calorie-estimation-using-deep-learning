@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>303.jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\train\303.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pomogranate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>4</ymin>
+			<xmax>291</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

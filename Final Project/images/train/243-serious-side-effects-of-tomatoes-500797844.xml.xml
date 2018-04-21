@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tomato</folder>
+	<filename>243-serious-side-effects-of-tomatoes-500797844.jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\tomato\243-serious-side-effects-of-tomatoes-500797844.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>500</ymin>
+			<xmax>359</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>276</ymin>
+			<xmax>172</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

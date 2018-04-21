@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>guava-fruit-psidium-sp-family-myrtaceae-central-thailand-49176721.jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\train\guava-fruit-psidium-sp-family-myrtaceae-central-thailand-49176721.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>105</ymin>
+			<xmax>766</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

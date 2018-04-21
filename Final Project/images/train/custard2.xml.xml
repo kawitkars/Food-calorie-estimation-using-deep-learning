@@ -1,0 +1,38 @@
+<annotation>
+	<folder>custard</folder>
+	<filename>custard2.png</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\custard\custard2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>447</width>
+		<height>347</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>custurd apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>6</ymin>
+			<xmax>422</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>custurd apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>138</ymin>
+			<xmax>248</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

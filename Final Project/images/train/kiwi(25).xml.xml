@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>kiwi(25).jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\New folder\kiwi(25).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>279</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>8</ymin>
+			<xmax>164</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>40</ymin>
+			<xmax>274</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

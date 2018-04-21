@@ -1,0 +1,38 @@
+<annotation>
+	<folder>banana</folder>
+	<filename>banana14.jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\banana\banana14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3298</width>
+		<height>3017</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>63</ymin>
+			<xmax>3179</xmax>
+			<ymax>2922</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>753</ymin>
+			<xmax>3298</xmax>
+			<ymax>1858</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,39 @@
+item {
+  id: 1
+  name: 'guava'
+}
+
+item {
+  id: 2
+  name: 'pomogranate'
+}
+
+item {
+  id: 3
+  name: 'kiwi'
+}
+
+item {
+  id: 4
+  name: 'tomato'
+}
+
+item {
+  id: 5
+  name: 'banana'
+}
+
+item {
+  id: 6
+  name: 'custard apple'
+}
+
+item {
+  id: 7
+  name: 'eggplant'
+}
+
+item {
+  id: 8
+  name: 'carrot'
+}

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>carrot</folder>
+	<filename>carrot7.jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\carrot\carrot7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>141</ymin>
+			<xmax>526</xmax>
+			<ymax>649</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>319</ymin>
+			<xmax>650</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

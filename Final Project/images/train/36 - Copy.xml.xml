@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>36 - Copy.jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\train\36 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>365</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pomogranate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>48</ymin>
+			<xmax>207</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pomogranate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>7</ymin>
+			<xmax>365</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

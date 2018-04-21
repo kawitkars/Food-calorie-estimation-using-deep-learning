@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Kiwi-Fruit-PNG-File.png</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\train\Kiwi-Fruit-PNG-File.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1159</width>
+		<height>861</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>25</ymin>
+			<xmax>1111</xmax>
+			<ymax>835</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images (10).jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\train\images (10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>312</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>30</ymin>
+			<xmax>171</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>21</ymin>
+			<xmax>251</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

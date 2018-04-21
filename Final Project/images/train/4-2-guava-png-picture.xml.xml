@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>4-2-guava-png-picture.png</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\train\4-2-guava-png-picture.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>456</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>65</ymin>
+			<xmax>448</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>11</ymin>
+			<xmax>242</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

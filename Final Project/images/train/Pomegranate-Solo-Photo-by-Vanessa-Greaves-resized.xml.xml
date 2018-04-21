@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Pomegranate-Solo-Photo-by-Vanessa-Greaves-resized.jpg</filename>
+	<path>C:\Users\kotic\Desktop\image recog trial\object-detection\images\train\Pomegranate-Solo-Photo-by-Vanessa-Greaves-resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>7</ymin>
+			<xmax>564</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>
