@@ -63,11 +63,22 @@ STANDARD_COLORS = [
     'WhiteSmoke', 'Yellow', 'YellowGreen'
 ]
 
+dict1 = {'TOMATO':22,'BANANA':105,'POMOGRANATE':72,'KIWI':42, 'APPLE':100,'EGGPLANT':20,'GUAVA':37,'CARROT':25}
+
 def getCount(className,dict):
 	if str(className) in dict:
 		dict[str(className)] = dict[str(className)] +1
 	else:
   		dict[str(className)] = 1
+
+calories = 0
+
+def getCalorie(dict):
+  calories = 0
+  for key, value in dict.items():
+    calories = calories + (dict1[key.upper()] * value)
+  print("TOTAL CALORIES IN IMAGE:" + str(calories))
+
 
 def save_image_array_as_png(image, output_path):
   """Saves an image (represented as a numpy array) to PNG.
@@ -630,6 +641,7 @@ def visualize_boxes_and_labels_on_image_array(
         else:
           box_to_color_map[box] = STANDARD_COLORS[
               classes[i] % len(STANDARD_COLORS)]
+
 	
   # Draw all boxes onto image.
   for box, color in box_to_color_map.items():
@@ -665,6 +677,7 @@ def visualize_boxes_and_labels_on_image_array(
           radius=line_thickness / 2,
           use_normalized_coordinates=use_normalized_coordinates)
   print(dict)
+  getCalorie(dict)
   return image
 
 
